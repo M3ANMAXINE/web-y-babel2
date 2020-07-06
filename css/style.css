@@ -1,0 +1,17 @@
+body{
+    clear: both;
+    margin: 0 auto;
+}
+
+nav{
+
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.img{
+    float: left;
+
+}
